@@ -10,4 +10,4 @@ Add library:
 
 ---
 
-[V1](https://github.com/VincentGarc/GUI_Password_Manager)
+[GUI Password Manager V1](https://github.com/VincentGarc/GUI_Password_Manager)
